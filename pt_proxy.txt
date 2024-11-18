@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,azusa.wiki
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,www.nicept.net
+DOMAIN-SUFFIX,rousi.zip

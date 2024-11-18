@@ -1,0 +1,10 @@
+payload:
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,njtupt.top
+DOMAIN-SUFFIX,bt.neu6.edu.cn
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,pt.sjtu.edu.cn
+DOMAIN-SUFFIX,byr.pt
+DOMAIN-SUFFIX,public.ecustpt.eu.org
+DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,pt.zhixing.bjtu.edu.cn
