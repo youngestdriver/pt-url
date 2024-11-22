@@ -54,7 +54,6 @@ DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,pt.hdupt.com
 DOMAIN-SUFFIX,hdfun.me
 DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,www.icc2022.com
 DOMAIN-SUFFIX,share.ilolicon.com
 DOMAIN-SUFFIX,pt.inswan.fun
 DOMAIN-SUFFIX,pt.itzmx.com
