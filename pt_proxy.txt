@@ -5,3 +5,4 @@ payload:
     - DOMAIN-SUFFIX,www.nicept.net
     - DOMAIN-SUFFIX,rousi.zip
     - DOMAIN-SUFFIX,www.icc2022.com
+    - DOMAIN-SUFFIX,share.ilolicon.com

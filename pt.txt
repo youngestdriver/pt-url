@@ -53,7 +53,6 @@ payload:
     - DOMAIN-SUFFIX,hdtime.org
     - DOMAIN-SUFFIX,pt.hdupt.com
     - DOMAIN-SUFFIX,hhanclub.top
-    - DOMAIN-SUFFIX,share.ilolicon.com
     - DOMAIN-SUFFIX,pt.inswan.fun
     - DOMAIN-SUFFIX,pt.itzmx.com
     - DOMAIN-SUFFIX,www.joyhd.net
