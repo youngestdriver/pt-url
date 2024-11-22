@@ -7,3 +7,5 @@ payload:
     - DOMAIN-SUFFIX,www.icc2022.com
     - DOMAIN-SUFFIX,share.ilolicon.com
     - DOMAIN-SUFFIX,www.gamegamept.com
+    - DOMAIN-SUFFIX,monikadesign.uk
+    - DOMAIN-SUFFIX,dajiao.cyou

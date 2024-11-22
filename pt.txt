@@ -25,7 +25,6 @@ payload:
     - DOMAIN-SUFFIX,carpt.net
     - DOMAIN-SUFFIX,ccfbits.org
     - DOMAIN-SUFFIX,ptchdbits.co
-    - DOMAIN-SUFFIX,dajiao.cyou
     - DOMAIN-SUFFIX,pt.dhtclub.com
     - DOMAIN-SUFFIX,dicmusic.com
     - DOMAIN-SUFFIX,discfan.net
@@ -59,7 +58,6 @@ payload:
     - DOMAIN-SUFFIX,our.kelu.one
     - DOMAIN-SUFFIX,kimoji.club
     - DOMAIN-SUFFIX,kp.m-team.cc
-    - DOMAIN-SUFFIX,monikadesign.uk
     - DOMAIN-SUFFIX,pt.okfun.org
     - DOMAIN-SUFFIX,www.okpt.net
     - DOMAIN-SUFFIX,open.cd
