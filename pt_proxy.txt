@@ -1,6 +1,7 @@
-DOMAIN-SUFFIX,azusa.wiki
-DOMAIN-SUFFIX,fsm.name
-DOMAIN-SUFFIX,kamept.com
-DOMAIN-SUFFIX,www.nicept.net
-DOMAIN-SUFFIX,rousi.zip
-DOMAIN-SUFFIX,www.icc2022.com
+payload:
+    - DOMAIN-SUFFIX,azusa.wiki
+    - DOMAIN-SUFFIX,fsm.name
+    - DOMAIN-SUFFIX,kamept.com
+    - DOMAIN-SUFFIX,www.nicept.net
+    - DOMAIN-SUFFIX,rousi.zip
+    - DOMAIN-SUFFIX,www.icc2022.com
