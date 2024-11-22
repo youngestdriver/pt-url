@@ -32,7 +32,6 @@ payload:
     - DOMAIN-SUFFIX,dogpt.cc
     - DOMAIN-SUFFIX,www.dragonhd.xyz
     - DOMAIN-SUFFIX,pt.0ff.cc
-    - DOMAIN-SUFFIX,www.gamegamept.com
     - DOMAIN-SUFFIX,greatposterwall.com
     - DOMAIN-SUFFIX,www.haidan.video
     - DOMAIN-SUFFIX,www.hddolby.com
