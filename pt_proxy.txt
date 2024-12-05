@@ -9,3 +9,4 @@ payload:
     - DOMAIN-SUFFIX,www.gamegamept.com
     - DOMAIN-SUFFIX,monikadesign.uk
     - DOMAIN-SUFFIX,dajiao.cyou
+    - DOMAIN-SUFFIX,blutopia.cc
