@@ -1,5 +1,6 @@
 payload:
     - DOMAIN-SUFFIX,tjupt.org
+    - DOMAIN-SUFFIX,tju.pt
     - DOMAIN-SUFFIX,njtupt.top
     - DOMAIN-SUFFIX,bt.neu6.edu.cn
     - DOMAIN-SUFFIX,nanyangpt.com
