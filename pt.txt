@@ -11,6 +11,7 @@ payload:
     - DOMAIN-SUFFIX,gamerapt.link
     - DOMAIN-SUFFIX,kufei.org
     - DOMAIN-SUFFIX,qingwa.pro
+    - DOMAIN-SUFFIX,qingwapt.com
     - DOMAIN-SUFFIX,wukongwendao.top
     - DOMAIN-SUFFIX,crabpt.vip
     - DOMAIN-SUFFIX,uk.qhstudio.fun
