@@ -71,7 +71,7 @@ payload:
     - DOMAIN-SUFFIX,pt.gtk.pw
     - DOMAIN-SUFFIX,ptcafe.club
     - DOMAIN-SUFFIX,ptchina.org
-    - DOMAIN-SUFFIX,pterclub.com
+    - DOMAIN-SUFFIX,pterclub.net
     - DOMAIN-SUFFIX,www.pthome.net
     - DOMAIN-SUFFIX,pt.msg.vg
     - DOMAIN-SUFFIX,www.pttime.org
